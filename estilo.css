@@ -1,0 +1,21 @@
+body{
+    background-color: lavender;
+    color:rgb(41, 38, 38);
+}
+img {
+    width: 200px;
+    height:auto;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9;
+}
+
+.subparrafo{
+    font-size: 1.2em;
+    color: red;
+}
+
+#ultimo-p{
+    color:blue;
+}
